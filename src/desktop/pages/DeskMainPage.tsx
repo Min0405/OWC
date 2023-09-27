@@ -5,7 +5,7 @@ const DeskMainPage:FC = () => {
     return (
         <IonPage>
             <IonTitle>
-                안녕하세요~~ 
+                이거슨 데스크탑입니다
             </IonTitle>
         </IonPage>
     )
