@@ -9,7 +9,7 @@ const Home: React.FC = () => {
      {isMobile ? (
         <IonPage>
           <IonTitle>
-            이거슨 모바일
+            이거슨 모바일 페이지입니다
           </IonTitle>
         </IonPage>
       ) : (
